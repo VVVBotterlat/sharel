@@ -10,8 +10,8 @@ module.exports =
 	version: "master"
 }, {
 	name: "document-updater",
-	repo: "https://github.com/sharelatex/document-updater-sharelatex.git",
-	version: "master"
+	repo: "https://github.com/VVVBotterlat/docu-upda.git",
+	version: "docu-upd"
 }, {
 	name: "clsi",
 	repo: "https://github.com/sharelatex/clsi-sharelatex.git",
